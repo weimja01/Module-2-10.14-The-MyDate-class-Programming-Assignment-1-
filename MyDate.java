@@ -1,3 +1,7 @@
+/*Jeff Weimer
+ * Module 2 Assignment 1
+ * 9/7/2025
+ */
 import java.util.GregorianCalendar;
 
 public class MyDate {
