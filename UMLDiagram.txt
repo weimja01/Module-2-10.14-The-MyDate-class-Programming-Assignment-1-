@@ -1,6 +1,6 @@
 classDiagram
   
-    class Fish{
+    class MyDate{
       - int year
       - int month
       - int day
